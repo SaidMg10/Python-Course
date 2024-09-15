@@ -71,3 +71,5 @@ class RegistroMascotas:
         else:
             del self.mascotas[index]
             print('Mascota eliminada correctamente')
+
+            
